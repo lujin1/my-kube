@@ -11,3 +11,5 @@
   https://github.com/thecasualcoder/kube-fzf
 - fzf  
   https://github.com/junegunn/fzf
+- kubeval  
+  https://github.com/instrumenta/kubeval
