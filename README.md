@@ -1,6 +1,6 @@
 # my-kube
 - kubectl/helm  
-  `mv kubectl/helm /usr/local/bin/helm`
+  `mv kubectl/helm /usr/local/bin/`
 - kubectx + kubens: Power tools for kubectl  
   https://github.com/ahmetb/kubectx
 - kube-prompt    
