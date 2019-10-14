@@ -1,5 +1,5 @@
 # my-kube
-- kubectl/helm
+- kubectl/helm  
   `mv kubectl/helm /usr/local/bin/helm`
 - kube-prompt    
   https://github.com/c-bata/kube-prompt
