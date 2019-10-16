@@ -12,3 +12,4 @@ do
 	echo -e "\n"
 done
 kill -9 $serverPID
+rm tmp.json tmp2.json
