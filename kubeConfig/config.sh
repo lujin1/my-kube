@@ -1,4 +1,4 @@
-#cd $HOME/.kube/config
+#cd $HOME/.kube/
 echo "=== start ==="
 kc=""
 for config in $(ls configfile)
