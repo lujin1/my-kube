@@ -4,6 +4,6 @@
   `mkdir configfile`
 3. copy 每个 k8s 的 config 到configfile下  
 4. 执行脚本 config.sh  
-  `sh $HOME/.kube/config.sh`  
+  `sh kubeConfig.sh`  
 5. 切换不同集群  
   `kubectx`
