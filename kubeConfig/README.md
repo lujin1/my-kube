@@ -7,3 +7,4 @@
   `sh kubeConfig.sh`  
 5. 切换不同集群  
   `kubectx`
+ - kubectx 下载地址： https://github.com/ahmetb/kubectx/releases
