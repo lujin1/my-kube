@@ -3,7 +3,7 @@ echo "=== start ==="
 kc=""
 for config in $(ls configfile)
 do
-    echo add ./configfile/$config to config
+    echo add $HOME/.kube/configfile/$config to $HOME/.kube/config
     kc=$kc:$config
 done
 #echo ${kc#*:}
